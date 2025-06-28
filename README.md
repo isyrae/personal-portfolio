@@ -41,10 +41,9 @@ Replace images inside ./assets/images/ as needed.
 
 📞 Contact
 ----------
-Want to connect? Reach out at https://isyrae.xyz or DM on Telegram: https://t.me/isyrae
+Want to connect? Reach out at https://instagram.com/igofrahul or DM on Telegram: https://t.me/isyrae
 
 📄 License
 ----------
 This project is licensed under the MIT License.
 Feel free to use, modify, and share it with credit.
-(MIT license text to be added here.)
